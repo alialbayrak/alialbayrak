@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on .net core
 - 🌱 I’m currently learning typescript
 
-- ⚒️ C# / ASP.NET CORE / BOOTSTRAP / JQUERY / TYPESCIPT
+- ⚒️ C# / ASP.NET CORE / BOOTSTRAP / JQUERY / TYPESCRIPT
